@@ -1,0 +1,6 @@
+// var, let, const
+
+
+var a = 10;     // global scope
+console.log(a);
+

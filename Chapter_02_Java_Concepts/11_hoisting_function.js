@@ -1,17 +1,15 @@
-// Step - 1 - Defining the functions
-function getUserStatus() {
 
+// Step 1 - Defination of functions
+function getUserStatus() {
+    // var status_code = undefined; - not shown to you.
     console.log(status_code);
     var status_code = "Active";
     console.log(status_code);
 
-
-
-
-
-
 }
 
-
-//Step - 2 - Calling the function
+// Step 2 - Calling of the functions
 getUserStatus();
+
+// Note: var is function-scoped, so status is hoisted to
+// the top of getUserStatus(), NOT the global scope.

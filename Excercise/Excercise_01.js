@@ -10,7 +10,7 @@
 
 // F: 0-59
 
-let score = 60;
+let score = 82;
 
 if (score >= 90 && score <= 100) {
     console.log("Grade A")
@@ -24,4 +24,7 @@ else if (score >= 70 && score <= 79) {
     console.log("Grade D");
 } else if (score >= 0 && score <= 59) {
     console.log("Fail");
+}
+else {
+    console.log("Invalid score");
 }

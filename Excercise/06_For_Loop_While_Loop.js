@@ -107,7 +107,7 @@ console.log("---------------------------------------------------------")
 let num1 = 7;
 let a = 1;
 
-while (a<=10)
+while (a<=20)
 {
     mult1 = num1 * a;
     console.log(mult1)

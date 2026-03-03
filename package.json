@@ -1,0 +1,26 @@
+{
+  "name": "playwrightaibatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajnish17/PlaywrightAiBatch.git"
+  },
+  "keywords": [],
+  "author": "Rajnish",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rajnish17/PlaywrightAiBatch/issues"
+  },
+  "homepage": "https://github.com/rajnish17/PlaywrightAiBatch#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

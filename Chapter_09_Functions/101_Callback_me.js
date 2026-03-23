@@ -2,7 +2,7 @@
 function rajnish_doing_work(worker, callback)
 {
 
-    console.log("Started the calss pw")
+    console.log("Started the class pw")
     let work = worker;
 
     console.log("Finished the class PW")
